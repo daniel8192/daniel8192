@@ -2,11 +2,10 @@
 
 My name is Daniel Hillinger and I'm a Site Reliability Engineer. I'm from Munich and currently working at [Value Transformation Services](https://www.v-tservices.com/). 
 
-- I had worked as
-  - Senior Consultant with AWS and Azure and a trainer for various Oracle and AWS topics
-  - Oracle database administrator with a focus on high availability (Dataguard, RAC, Grid) and engineered systems (Exadata)
-  - Solaris and Linux system administrator
-
+I had worked as
+- Senior Consultant with AWS and Azure and a trainer for various Oracle and AWS topics
+- Oracle database administrator with a focus on high availability (Dataguard, RAC, Grid) and engineered systems (Exadata)
+- Solaris and Linux system administrator
 
 ### Where to find me
 
