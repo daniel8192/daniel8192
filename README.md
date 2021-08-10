@@ -1,12 +1,12 @@
 ### Hi there, I'm [Daniel](https://github.com/daniel8192) 👋
 
-My name is Daniel Hillinger and I'm a Consultant/Cloud Engineer. I'm from Munich and currently working at [Trivadis](https://www.trivadis.com). 
+My name is Daniel Hillinger and I'm a Site Reliability Engineer. I'm from Munich and currently working at [Value Transformation Services](https://www.v-tservices.com/). 
 
-- I'm working on projects with AWS and Azure 
-- I'm working as a trainer for various Oracle and AWS topics 
 - I had worked as
-  - Solaris and Linux system administrator
+  - Senior Consultant with AWS and Azure and a trainer for various Oracle and AWS topics
   - Oracle database administrator with a focus on high availability (Dataguard, RAC, Grid) and engineered systems (Exadata)
+  - Solaris and Linux system administrator
+
 
 ### Where to find me
 
@@ -16,7 +16,6 @@ My name is Daniel Hillinger and I'm a Consultant/Cloud Engineer. I'm from Munich
 [![Wordpress](https://img.shields.io/badge/daniel8192-%231DA1F2.svg?&style=plastics&logo=wordpress&logoColor=white&labelColor=21759b&color=lightgrey&label=Wordpress)](https://daniel8192.wordpress.com)
 [![SlideShare](https://img.shields.io/badge/daniel--hillinger-%230077B5.svg?&style=plastics&logo=slideshare&logoColor=white&labelColor=0e76a8&color=lightgrey&label=SlideShare)](https://www.slideshare.net/DanielHillinger)
 [![Github](https://img.shields.io/badge/daniel8192-%2312100E.svg?&style=plastics&logo=Github&logoColor=white&labelColor=000000&color=lightgrey&label=github)](https://github.com/daniel8192)
-[![Github](https://img.shields.io/badge/tvddhi-%2312100E.svg?&style=plastics&logo=Github&logoColor=white&labelColor=000000&color=lightgrey&label=github)](https://github.com/tvddhi)
 [![Mail](https://img.shields.io/badge/daniel.8192@gmx.de-%231DA1F2.svg?&style=plastics&logo=gmail&logoColor=white&labelColor=D44638&color=lightgrey&label=mail)](mailto:daniel.8192@gmx.de)
 
 ## &#x270d; Speaking, Blogging & Writing
